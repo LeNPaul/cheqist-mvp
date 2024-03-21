@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "Travel Checklist"
 ---
 
 Before You Leave:
