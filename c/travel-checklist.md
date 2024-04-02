@@ -94,3 +94,5 @@ Upon Arrival:
 - Update social media if desired
 
 Remember, this checklist can be tailored to your specific needs and destination. It's always a good idea to double-check your list and make adjustments based on your personal preferences and travel plans.
+
+<a href="https://app.cheqist.com/" class="btn btn-lg btn-dark btn-sm">Save checklist</a>
